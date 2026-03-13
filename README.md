@@ -1,5 +1,36 @@
 # SOLID
 
+
+## Class Outline
+
+
+1. backstory
+- talk about relevant story of chaos, confusion to clarity
+- how important it is to have clean, redable, decoupled, scalable and maintainable code?
+- we have a principles in place that every good engineer should be aware and consious about while writing code.
+
+
+2. Introduction to SOLID
+
+What is SOLID?
+Why is SOLID?
+When to use?
+
+3. SOLID
+
+- DEFINATION OF EACH
+- Theoy oexample of each with Drawing
+- Bad code
+- Optimized code
+
+
+
+
+
+
+
+
+
 ## 1. Single Responsibility Principle
 
 
